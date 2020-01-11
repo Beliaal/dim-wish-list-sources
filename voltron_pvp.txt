@@ -8596,7 +8596,6 @@ dimwishlist:item=233423981&perks=1926090093,4134353779,3425386926,1354429876
 dimwishlist:item=233423981&perks=1926090090,4134353779,3425386926,1354429876
 dimwishlist:item=233423981&perks=1926090091,4134353779,3425386926,1354429876
 
-
 //duke mk. 44 (pvp)
 //notes: PvP Pick
 dimwishlist:item=2112909414&perks=1926090093,1885400500,2846385770,3425386926
@@ -8707,7 +8706,6 @@ dimwishlist:item=2112909414&perks=1926090091,1561002382,3124871000,1015611457
 dimwishlist:item=2112909414&perks=1926090093,1431678320,3124871000,1015611457
 dimwishlist:item=2112909414&perks=1926090090,1431678320,3124871000,1015611457
 dimwishlist:item=2112909414&perks=1926090091,1431678320,3124871000,1015611457
-
 
 //horror's least (pvp)
 //notes: PvP Pick
@@ -9246,7 +9244,6 @@ dimwishlist:item=3040742682&perks=13792278,106909392,2387244414,3124871000
 dimwishlist:item=3040742682&perks=13792279,106909392,2387244414,3124871000
 dimwishlist:item=3040742682&perks=2405638014,106909392,2387244414,3124871000
 
-
 //talons of the eagle (pvp)
 //notes: PvP Pick
 dimwishlist:item=1982711279&perks=839105230,1561002382,2387244414,588594999
@@ -9261,7 +9258,6 @@ dimwishlist:item=1982711279&perks=1840239774,1561002382,2387244414,47981717
 dimwishlist:item=1982711279&perks=839105230,106909392,2387244414,47981717
 dimwishlist:item=1982711279&perks=4090651448,106909392,2387244414,47981717
 dimwishlist:item=1982711279&perks=1840239774,106909392,2387244414,47981717
-
 
 //the last dance (pvp)
 //notes: PvP Pick
@@ -10951,7 +10947,6 @@ dimwishlist:item=3704653637&perks=938542991,2349202967,354401740,3708227201
 //Oxygen SR3
 dimwishlist:item=3907337522&perks=1392496348,3142289711,2848615171,1941225610
 
-
 //The Recluse
 dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624
 
@@ -11862,7 +11857,6 @@ dimwishlist:item=45&perks=1608112177,1068909436
 //Machine Gun Reserves and Machine Gun Targeting
 dimwishlist:item=45&perks=942541111,901125364
 
-
 //-----Gauntlets-----
 
 //Impact Induction or Enhanced Impact Induction and all of the Scavengers except sword
@@ -11881,7 +11875,6 @@ dimwishlist:item=46&perks=1463486301,866518141
 dimwishlist:item=46&perks=3938115510,3054567270
 dimwishlist:item=46&perks=1463486301,3054567270
 
-
 //-----Chest-----
 
 //Unflinching Rifle Aim, Unflinching Light Arms Aim, Unflinching Machine Gun, or Unflinching Grenade Launcher Aim and Special Ammo Finder
@@ -11889,7 +11882,6 @@ dimwishlist:item=47&perks=3676627761,2620835322
 dimwishlist:item=47&perks=2825949957,2620835322
 dimwishlist:item=47&perks=1772682177,2620835322
 dimwishlist:item=47&perks=430361065,2620835322
-
 
 //-----Legs-----
 
@@ -11901,7 +11893,6 @@ dimwishlist:item=48&perks=737144025,2620835322
 dimwishlist:item=48&perks=4048902980,2620835322
 dimwishlist:item=48&perks=2972736610,2620835322
 dimwishlist:item=48&perks=2610215900,2620835322
-
 
 //-----Class Item-----
 
@@ -17945,6 +17936,14 @@ dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
 dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
 
+title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
+
+// Pyroclastic Flow (okay PvP)
+//notes:Mercules904 (okay PvP) - "Fact of the matter is, if you're using a Rocket Launcher in PvP it should be Truth, Wardcliff, or one of the High-Impacts like Sleepless or Roar of the Bear. Using the lite-tracking offered by Pyroclastic is a gimmick better suited for Gambit (for the most part)."
+dimwishlist:item=1289324202&perks=332773068,1996142143,706527188,1275731761
+dimwishlist:item=1289324202&perks=1478423395,1996142143,706527188,1275731761
+
 title:u/pandapaxxy's Season Pass / Dawning controller breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eazc2q/season_pass_dawning_weapons_controller_breakdown/
 
@@ -18061,7 +18060,6 @@ dimwishlist:item=1289324202&perks=332773068,2822142346,706527188,1275731761
 dimwishlist:item=1289324202&perks=3809316345,2822142346,706527188,1275731761
 dimwishlist:item=1289324202&perks=1441682018,2822142346,706527188,1275731761
 dimwishlist:item=1289324202&perks=1478423395,2822142346,706527188,1275731761
-
 
 // Point of the Stag (curated / M+KB)
 //notes:pandapaxxy (curated / controller): "With hush being the hip-fire champ I firmly believe that this will be the ADS champ. If you happen to take any damage before your first shot then Eye of the Storm will magnetize your next shot to their head and you’ll get Archer’s Tempo to make your next shot just that much faster." Recommended MW: Draw Time.
@@ -19143,8 +19141,6 @@ dimwishlist:item=1529450902&perks=332773068,2985827016,3300816228,1275731761
 dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1275731761
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,1275731761
 dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1275731761
-
-
 
 title:u/Mercules904's Garden of Salvation raid weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
